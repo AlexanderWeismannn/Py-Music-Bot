@@ -44,6 +44,6 @@ Stream YouTube audio into voice channels, search songs, manage queues — and de
 ## 🧰 Installation (Local Dev)
 
 ```bash
-git clone ...
+git clone https://github.com/AlexanderWeismannn/Py-Music-Bot.git
 cd music-bot
 pip install -r requirements.txt
